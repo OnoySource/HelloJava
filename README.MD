@@ -3,7 +3,7 @@ I created this program using Android and run with Termux
 
 How to Use ?
 
-1. git clone
+1. git clone https://github.com/OnoySource/HelloJava/
 2. cd HelloJava
 3. compile java 
 
